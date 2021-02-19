@@ -19,7 +19,7 @@ yarn run flow
 
 _Las siguientes herramientas :_
 
-- [React](hhttps://github.com/facebook/create-react-app) - Create react app
+- [React](https://github.com/facebook/create-react-app) - Create react app
 - [Flow](https://flow.org/en/) - Flow :)
 - [Flow VSCode Plugin](https://github.com/flowtype/flow-for-vscode) - Flow language support
 
