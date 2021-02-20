@@ -16,6 +16,15 @@ yarn flow-typed install
 yarn run flow
 ```
 
+## Enlaces directos a documentación (utiles)
+
+- React Event Handling https://flow.org/en/docs/react/events/
+- For ref https://flow.org/en/docs/react/refs/
+- Children's https://flow.org/en/docs/react/children/
+- Context https://flow.org/en/docs/react/context/
+- Type Reference https://flow.org/en/docs/react/types/
+
+
 ## Construido con 🛠️
 
 _Las siguientes herramientas :_
