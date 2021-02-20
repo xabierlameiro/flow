@@ -7,6 +7,7 @@ _FLOW IS A STATIC TYPE CHECKER FOR JAVASCRIPT._
 ```
 yarn add -D @babel/core @babel/cli @babel/preset-flow
 yarn add -D flow-bin
+yarn run flow init
 ```
 
 ```
