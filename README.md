@@ -1,39 +1,31 @@
-# Instalando y probando Flow
+# Flow Type Checker Demo
 
-_FLOW IS A STATIC TYPE CHECKER FOR JAVASCRIPT._
+A JavaScript project demonstrating static type checking with [Flow](https://flow.org/)
+in a React application.
 
-### Instalación 🔧
+[![CI](https://github.com/xabierlameiro/flow/actions/workflows/ci.yml/badge.svg)](https://github.com/xabierlameiro/flow/actions/workflows/ci.yml)
 
+## Stack
+
+| Layer           | Choice     |
+| --------------- | ---------- |
+| Language        | JavaScript |
+| Type Checker    | Flow       |
+| Library         | React      |
+| Package Manager | Yarn       |
+
+## Getting Started
+
+```bash
+yarn install
 ```
-yarn add -D @babel/core @babel/cli @babel/preset-flow
-yarn add -D flow-bin
-yarn run flow init
-```
 
-```
-yarn add -D flow-typed
-yarn flow-typed install
+## Run Flow type checking
+
+```bash
 yarn run flow
 ```
 
-## Enlaces directos a documentación (utiles)
+## License
 
-- React Event Handling https://flow.org/en/docs/react/events/
-- For ref https://flow.org/en/docs/react/refs/
-- Children's https://flow.org/en/docs/react/children/
-- Context https://flow.org/en/docs/react/context/
-- Type Reference https://flow.org/en/docs/react/types/
-
-
-## Construido con 🛠️
-
-_Las siguientes herramientas :_
-
-- [React](https://github.com/facebook/create-react-app) - Create react app
-- [Flow](https://flow.org/en/) - Flow :)
-- [Flow typed](https://github.com/flow-typed/flow-typed) - Flow typed
-- [Flow VSCode Plugin](https://github.com/flowtype/flow-for-vscode) - Flow language support
-
----
-
-⌨️ con ❤️❤️❤️❤️❤️❤️ por xlameiro
+MIT
